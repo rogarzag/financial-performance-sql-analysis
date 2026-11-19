@@ -32,16 +32,16 @@ The goal was to identify differences in financial and marketing efficiency that 
 
 ## Key findings
 
-- The **United States** showed the strongest overall performance.
-- **Canada** and the **United Kingdom** showed lower marketing efficiency relative to the other markets analyzed.
-- Reviewing revenue alone was not sufficient; margin and marketing ROI provided additional context for evaluating market performance.
+- The **United States** recorded the highest revenue (**$3.35M**), gross profit (**$1.45M**), and marketing ROI (**75.75%**).
+- **Canada** recorded the lowest revenue (**$710,205**) and ROI (**17.43%**).
+- The **United Kingdom** had the highest campaign cost (**$2.30M**) and an ROI of **22.05%**.
+- Gross margins were relatively similar across the six countries, ranging from approximately **41% to 45%**, while ROI ranged from **17% to 76%**.
 
 ## Business recommendations
 
-- Prioritize country-level performance reviews using revenue, gross profit, margin, and marketing ROI together.
-- Investigate the drivers behind weaker marketing efficiency in Canada and the United Kingdom.
-- Use country comparisons to support budget allocation and commercial prioritization.
-- Monitor whether higher revenue markets also sustain stronger margins and marketing returns over time.
+- Consider increasing investment in the United States, which recorded the highest marketing ROI and gross profit in this analysis.
+- Review the United Kingdom's campaign strategy, given its highest campaign cost without a proportional ROI.
+- Review Canada's marketing strategy, given its lowest ROI and revenue.
 
 ## Tools
 
@@ -61,4 +61,4 @@ This project is part of my broader Business Analysis and Data Analytics portfoli
 
 ## Conclusion
 
-The comparison identifies the United States as the strongest overall market in the analyzed results, while Canada and the United Kingdom show comparatively weaker marketing efficiency. Commercial decisions should consider revenue, gross profit, margin, and marketing ROI together rather than relying on revenue alone. The findings indicate where to investigate further; they do not establish the causes of market differences.
+The six-country comparison found that the United States had the highest revenue, gross profit, and marketing ROI. Canada had the lowest revenue and ROI, while the United Kingdom had the highest campaign cost. Gross margins were relatively similar across countries, whereas ROI varied more widely. These are findings from the available SQL outputs and dashboard; they do not explain the causes of the differences.
