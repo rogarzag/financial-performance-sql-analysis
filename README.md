@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [financial-performance](https://rogarzag.github.io/projects/financial-performance/)  
+**Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [financial-performance-sql-analysis](https://github.com/rogarzag/financial-performance-sql-analysis)  
 **Project focus:** Data Analytics · SQL · Financial Performance · KPI Calculation · Marketing ROI  
 **Project context:** Data Analytics portfolio project  
