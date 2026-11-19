@@ -6,12 +6,12 @@
 **GitHub repository:** [financial-performance-sql-analysis](https://github.com/rogarzag/financial-performance-sql-analysis)  
 **Project focus:** Data Analytics · SQL · Financial Performance · KPI Calculation · Marketing ROI  
 **Project context:** Data Analytics portfolio project  
-**Data / case coverage:** Six-country comparison; analysis period not specified in the README  
+**Data / period covered:** Six-country comparison; analysis period not specified in the README  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
 
-SQL analysis of revenue, costs, gross profit, margins, and marketing ROI across six countries to support financial and commercial decision-making.
+A comparison of financial and marketing results across six countries, using the SQL analysis and the Google Sheets workbook to review revenue, costs, margins, and marketing returns.
 
 ## Business question
 
@@ -53,7 +53,7 @@ SQL · Aggregation · KPI Calculation · Financial Analysis · ROI Analysis · E
 
 ## Project Context & Availability
 
-The country-level performance table was developed with SQL, and the resulting analysis was completed in Google Sheets. The original SQL queries remain in the TripleTen learning environment and are not included in this repository. The linked workbook is the available portfolio deliverable.
+The country-level results were prepared with SQL and reviewed in Google Sheets. The original SQL queries remain in the TripleTen learning environment and are not included in this repository. The linked workbook is the available portfolio deliverable.
 
 This project is part of my broader Business Analysis and Data Analytics portfolio.
 
