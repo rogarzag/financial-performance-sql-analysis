@@ -1,5 +1,16 @@
 # Financial Performance Analysis with SQL
 
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [financial-performance](https://rogarzag.github.io/projects/financial-performance/)  
+**GitHub repository:** [financial-performance-sql-analysis](https://github.com/rogarzag/financial-performance-sql-analysis)  
+**Project focus:** Data Analytics · SQL · Financial Performance · KPI Calculation · Marketing ROI  
+**Project context:** Data Analytics portfolio project  
+**Data / case coverage:** Six-country comparison; analysis period not specified in the README  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
 SQL analysis of revenue, costs, gross profit, margins, and marketing ROI across six countries to support financial and commercial decision-making.
 
 ## Business question
@@ -45,3 +56,7 @@ SQL · Aggregation · KPI Calculation · Financial Analysis · ROI Analysis · E
 This project is part of my broader Business Analysis and Data Analytics portfolio.
 
 [Professional Website](https://rogarzag.github.io/) · [GitHub Profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/)
+
+## Conclusion
+
+The comparison identifies the United States as the strongest overall market in the analyzed results, while Canada and the United Kingdom show comparatively weaker marketing efficiency. Commercial decisions should consider revenue, gross profit, margin, and marketing ROI together rather than relying on revenue alone. The findings indicate where to investigate further; they do not establish the causes of market differences.
