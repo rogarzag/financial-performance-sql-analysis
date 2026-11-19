@@ -51,7 +51,9 @@ SQL · Aggregation · KPI Calculation · Financial Analysis · ROI Analysis · E
 
 [View the Google Sheets analysis](https://docs.google.com/spreadsheets/d/1zbW1QQRTN6DHKjlaQLtbhdRJkuep0zOcQLt1rfbU6tQ/edit?usp=drive_link)
 
-## Portfolio context
+## Project Context & Availability
+
+The country-level performance table was developed with SQL, and the resulting analysis was completed in Google Sheets. The original SQL queries remain in the TripleTen learning environment and are not included in this repository. The linked workbook is the available portfolio deliverable.
 
 This project is part of my broader Business Analysis and Data Analytics portfolio.
 
