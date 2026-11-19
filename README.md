@@ -6,7 +6,7 @@
 **GitHub repository:** [financial-performance-sql-analysis](https://github.com/rogarzag/financial-performance-sql-analysis)  
 **Project focus:** Data Analytics · SQL · Financial Performance · KPI Calculation · Marketing ROI  
 **Project context:** Data Analytics portfolio project  
-**Data / period covered:** Six-country comparison; analysis period not specified in the README  
+**Data / project coverage:** Six-country comparison; analysis period not specified in the README  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
